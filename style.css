@@ -1,0 +1,23 @@
+p{
+    background-color: rgb(253, 239, 255);
+    padding: 10px;
+    width: 450px;
+    border-radius: 100px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+body {
+    background-image: url("rg.webp");
+}
+
+#as{
+    background-color: rgb(104, 255, 104);
+    width: 140px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: rgb(85, 85, 85);
+    color: white;
+    margin-top: 40px;
+}
